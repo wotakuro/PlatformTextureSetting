@@ -14,7 +14,7 @@ namespace PlatformTextureSetting
 	{
 		protected override string targetPlatform
 		{
-			get { return "Nintendo 3DS"; }
+			get { return "iPhone"; }
 		}
 		[MenuItem("Tools/PlatformTextureSetting/iOS")]
 		public static void ShowWindow()
