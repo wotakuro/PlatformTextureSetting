@@ -21,7 +21,7 @@ namespace PlatformTextureSetting
 				Division,
 			}
 			public static readonly string[] MaxPixelSizeList = { "16", "32", "64", "128", "256", "512", "1024", "2048" };
-			public static readonly string[] DivParamSizeList = { "1／1", "1／2", "1／4", "1／8", "1／16" };
+			public static readonly string[] DivParamSizeList = { "1.0", "0.5", "0.25", "0.125", "0.0625" };
 
 			public string pathMatch;
 			public EParameterFormat parameterFormat;
